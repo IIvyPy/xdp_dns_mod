@@ -1,4 +1,4 @@
-module xdp_dns_mod
+module github.com/IIvyPy/xdp_dns_mod
 
 go 1.16
 
